@@ -10,7 +10,7 @@
     <description>Noticias sobre la actulidad del hardware.</description>
     <language>es-es</language>
     <lastBuildDate>Sun, 14 Feb 2021 18:54:00 +0100</lastBuildDate>
-	<webMaster>a20chheca@iesgrancapitan.org</webMaster>
+	<webMaster>a20chheca@iesgrancapitan.org (Carlos Chaves)</webMaster>
 
     <skipDays>
         <day>Saturday</day>
@@ -32,7 +32,7 @@
             <link>https://hardwaresfera.com/noticias/hardware/intel-ice-lake-sp-hasta-40-nucleos/</link>
             <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
             <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
-            <enclosure url = "https://elchapuzasinformatico.com/wp-content/uploads/2020/03/Intel-Xeon-740x504.jpg" length="5000" type="image"/jpg>
+            <enclosure url = "https://elchapuzasinformatico.com/wp-content/uploads/2020/03/Intel-Xeon-740x504.jpg" length="5000" type="image/jpg">
         </item>
 
         <item>
@@ -41,7 +41,7 @@
             <link>https://www.geeknetic.es/Noticia/21178/PowerColor-registra-sus-versiones-de-la-AMD-Radeon-RX-6700-en-la-EEC.html</link>
             <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
             <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
-            <enclosure url = "https://acf.geeknetic.es/imgw/imagenes/auto/2021/2/12/qkd-w00w.png?f=webp&s=b" length="5000" type="image"/png>
+            <enclosure url = "https://acf.geeknetic.es/imgw/imagenes/auto/2021/2/12/qkd-w00w.png?f=webp&s=b" length="5000" type="image/png">
         </item>
 
         <item>
@@ -50,7 +50,7 @@
             <link>https://www.xataka.com/componentes/intel-optane-dice-adios-a-pcs-sobremesa-ahora-centrara-esta-tecnologia-servidores</link>
             <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
             <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
-            <enclosure url = "https://i.blogs.es/b4566c/optane/1366_2000.jpeg" length="5000" type="image"/jpeg>
+            <enclosure url = "https://i.blogs.es/b4566c/optane/1366_2000.jpeg" length="5000" type="image/jpeg">
         </item>
 
         <item>
@@ -59,7 +59,7 @@
             <link>https://www.hd-tecnologia.com/samsung-invertira-17-000-millones-de-dolares-para-construir-una-fundicion-en-estados-unidos/</link>
             <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
             <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
-            <enclosure url = "https://www.hd-tecnologia.com/imagenes/articulos/2021/02/Samsung-invertira-17.000-millones-de-dolares-para-construir-una-fundicion-en-Estados-Unidos.jpg" ength="5000" type="image"/jpg>
+            <enclosure url = "https://www.hd-tecnologia.com/imagenes/articulos/2021/02/Samsung-invertira-17.000-millones-de-dolares-para-construir-una-fundicion-en-Estados-Unidos.jpg" ength="5000" type="image/jpg">
         </item>
 
 </channel>
