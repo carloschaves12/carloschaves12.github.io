@@ -1,0 +1,67 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<rss version = "2.0">
+
+<channel>
+
+    <title>Noticias de hardware</title>
+    <copyright>a20@iesgrancapitan.org</copyright>
+    <category>Inormatica</category>
+    <link>https://carloschaves12.github.io/lenguaje-de-marcas/.</link>
+    <description>Noticias sobre la actulidad del hardware.</description>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 14 Feb 2021 18:54:00 +0100</lastBuildDate>
+	<webMaster>a20chheca@iesgrancapitan.org</webMaster>
+
+    <skipDays>
+        <day>Saturday</day>
+        <day>Sunday</day>
+    </skipDays>
+
+    <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+    </skipHours>
+
+        <item>
+            <title>Intel Ice Lake-SP podría tener un máximo de 40 núcleos</title>
+            <description>Un rumor indica que los procesadores Intel Ice Lake-SP de la familia Xeon podrían integrar hasta 40 núcleos y 64 líneas PCIe 4.0</description>
+            <link>https://hardwaresfera.com/noticias/hardware/intel-ice-lake-sp-hasta-40-nucleos/</link>
+            <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
+            <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url = "https://elchapuzasinformatico.com/wp-content/uploads/2020/03/Intel-Xeon-740x504.jpg" length="5000" type="image"/jpg>
+        </item>
+
+        <item>
+            <title>PowerColor registra sus versiones de la AMD Radeon RX 6700 en la EEC</title>
+            <description>Si bien esta información no suele revelarnos prácticamente nada, siempre es un modo de conocer cuando una marca se está preparando para lanzar al mercado un producto nuevo, y en esta ocasión es PowerColor quien ha registrado sus modelos personalizados de la AMD Radeon RX 6700 en la EEC, modelos que llegarían para atacar el mercado de gama media alta del mercado.</description>
+            <link>https://www.geeknetic.es/Noticia/21178/PowerColor-registra-sus-versiones-de-la-AMD-Radeon-RX-6700-en-la-EEC.html</link>
+            <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
+            <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url = "https://acf.geeknetic.es/imgw/imagenes/auto/2021/2/12/qkd-w00w.png?f=webp&s=b" length="5000" type="image"/png>
+        </item>
+
+        <item>
+            <title>Intel Optane dice adiós a los PCs de sobremesa, ahora centrará esta tecnología en servidores</title>
+            <description>La tecnología Optane de Intel nació con un reto complicado: lograr plantear a la revolución de las unidades SSD que cada vez daban más por menos. Intel, por contra, quería dar más por más con estas unidades que ciertamente eran veloces, pero cuyo precio era significativamente mayor.</description>
+            <link>https://www.xataka.com/componentes/intel-optane-dice-adios-a-pcs-sobremesa-ahora-centrara-esta-tecnologia-servidores</link>
+            <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
+            <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url = "https://i.blogs.es/b4566c/optane/1366_2000.jpeg" length="5000" type="image"/jpeg>
+        </item>
+
+        <item>
+            <title>Samsung invertirá 17.000 millones de dólares para construir una fundición en Estados Unidos</title>
+            <description>Parece que Samsung no quiere perderle pisada a TSMC, y ahora se dio a conocer que la empresa surcoreana invertirá 17.000 millones de dólares para construir una fundición en Estados Unidos, buscando ser más competitiva en dicho país.</description>
+            <link>https://www.hd-tecnologia.com/samsung-invertira-17-000-millones-de-dolares-para-construir-una-fundicion-en-estados-unidos/</link>
+            <author>a20chheca@iesgrancapitan.org (Carlos Chaves Hernandez)</author>
+            <pubDate>Sat, 13 Feb 2021 13:00:00 GMT</pubDate>
+            <enclosure url = "https://www.hd-tecnologia.com/imagenes/articulos/2021/02/Samsung-invertira-17.000-millones-de-dolares-para-construir-una-fundicion-en-Estados-Unidos.jpg" ength="5000" type="image"/jpg>
+        </item>
+
+</channel>
+
+</rss>  
