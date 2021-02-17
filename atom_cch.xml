@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xml:lang="es"
+    xml:base="http://localhost/atom/">
+
+    <id>2b3366e5-6d7b-495d-8199-d3a6f52024e6</id> 
+
+    <title>Noticias sobre la actulidad del hardware</title>
+    <updated>2021-02-16T11:00:00+01:00</updated>
+
+    <link rel = 'alternate' href = 'https://raw.githubusercontent.com/carloschaves12/carloschaves12.github.io/gh-pages/atom_cch.xml'/> <!--enlace github raw-->
+
+    <author>
+        <name>Carlos</name>
+        <email>a20chheca@iesgrancapitan.org</email>
+        <uri>http://www.iesgracapitan.org/~cchavesh</uri>
+    </author>
+
+    <entry>
+        <id>urn:uuid:fd0b0b8b-4ea5-47cf-85c1-aaa5830b07fa</id>
+        <title>Consiguen modificar la BIOS de la RTX 3080 Mobile del portátil ASUS RoG Zephyrus Duo 15 y obtener una mejora de rendimiento de más del 20%</title>
+        <updated>2020-12-13T18:30:00+01:00</updated>
+        <author>
+            <name>Carlos</name>
+            <email>a20chheca@iesgrancapitan.org</email>
+            <uri>https://hardwaresfera.com/noticias/portatiles-noticias/portatil-asus-portatil-asus-rog-zephyrus-duo-15/#:~:text=Han%20modificado%20la%20BIOS%20de,problemas%20t%C3%A9rmicos%20y%20consumos%20excesivos.</uri>
+        </author>
+        <summary type = html>&lt;h1&gt; Han modificado la BIOS de la RTX 3080 Mobile integrada en el portátil ASUS Zephyrus Duo 15 y han conseguido mejorar el rendimiento un 20% </h1>;</summary>
+        <link rel= "relative" href = "https://t7m8e9c8.rocketcdn.me/wp-content/uploads/2021/02/portatil-asus-RoG-Zephyus-Duo-15-rtx-3080-mobile-780x470.jpg"/>  
+    </entry>
+
+    <entry>
+        <id>urn:uuid:68f89958-57b2-49a8-87fd-ba99f4fe80c3</id>
+        <title>Las primeras controladoras PCIe 5.0 x4 a 16 GB/s para SSD de Silicon Motion llegarán en 2023</title>
+        <updated>2020-12-13T18:30:00+01:00</updated>
+        <author>
+            <name>Carlos</name>
+            <email>a20chheca@iesgrancapitan.org</email>
+            <uri>https://www.geeknetic.es/Noticia/21196/Las-primeras-controladoras-PCIe-50-x4-a-16-GBs-para-SSD-de-Silicon-Motion-llegaran-en-2023.html</uri>
+        </author>
+        <summary>A finales de 2020, Silicon Motion lanzó al mercado distintas controladoras PCI Express 4.0 para SSD de alto rendimiento. Ahora, la compañía está preparando sus sucesores basados en el nuevo PCI Express 5.0 para permitir aprovechar todo el ancho de banda que ofrecerá este estándar con el que se podrán conseguir velocidades aún más altas que los 6.000 MB/s que alcanzan los SSD NVMe PCIE 4.0 más rápidos como el Samsung 980 Pro que hemos analizado.</summary>
+        <link rel="enclosure"
+            type = "video/webm"
+            href = "https://www.youtube.com/watch?v=ge_ckBOG7MQ&ab_channel=BootSequence"
+            length ="2342"/>  
+    </entry>
+
+    <entry>
+        <id>urn:uuid:b262a11a-dd65-4ccb-bd0b-61a8b3671528</id>
+        <title>La computación cuántica despegará cuando tengamos cúbits de más calidad, y los láseres nos están ayudando a conseguirlos</title>
+        <updated>2020-12-13T18:30:00+01:00</updated>
+        <author>
+            <name>Carlos</name>
+            <email>a20chheca@iesgrancapitan.org</email>
+            <uri>https://www.xataka.com/investigacion/computacion-cuantica-despegara-cuando-tengamos-cubits-calidad-laseres-nos-estan-ayudando-a-conseguirlos</uri>
+        </author>
+        <summary>La potencia de un ordenador cuántico no está condicionada únicamente por el número de cúbits con el que es capaz de trabajar; también es crucial su calidad</summary>
+        <link rel="enclosure"
+            xml:lang="es-es"
+            type = "application/pdf"
+            hreflang="es-es"
+            href = "https://enginyeriainformatica.cat/wp-content/uploads/2016/05/PRINCIPIOS-FUNDAMENTALES-DE-COMPUTACI%C3%93N-CU%C3%81NTICA.pdf"
+            length ="2342"/>  
+    </entry>
+
+    <entry>
+        <id>urn:uuid:600fa847-7f37-41a0-8cb9-0fef4fec1f65</id>
+        <title>Intel prepara el lanzamiento del Core i9-10900KS Special Edition (Comet Lake) con el Core i9-11900K (Rocket Lake) a la vuelta de la esquina</title>
+        <updated>2020-12-13T18:30:00+01:00</updated>
+        <author>
+            <name>Carlos</name>
+            <email>a20chheca@iesgrancapitan.org</email>
+            <uri>https://www.hd-tecnologia.com/intel-prepara-el-lanzamiento-del-core-i9-10900ks-special-edition-comet-lake-con-el-core-i9-11900k-rocket-lake-a-la-vuelta-de-la-esquina/</uri>
+        </author>
+        <summary>Las filtraciones del Core i9-11900K (Rocket Lake) no paran de llegar, ya que la 11ª generación de Intel saldrá a la venta dentro de poco más de un mes.</summary>
+        <link rel= "enclosure"
+            type = "webpage"
+            href = "https://hardwaresfera.com/"
+            length = "2342"/>  
+    </entry>
+
+</feed>
