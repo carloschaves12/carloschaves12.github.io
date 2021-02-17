@@ -9,7 +9,7 @@
     <title>Noticias sobre la actulidad del hardware</title>
     <updated>2021-02-16T11:00:00+01:00</updated>
 
-    <link rel = 'alternate' href = ''/> <!--enlace github raw-->
+    <link rel = 'alternate' href = 'https://raw.githubusercontent.com/carloschaves12/carloschaves12.github.io/gh-pages/atom_cch.xml'/> <!--enlace github raw-->
 
     <author>
         <name>Carlos</name>
